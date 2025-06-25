@@ -10,7 +10,7 @@ The solution utilizes a tiered storage approach, moving records older than three
 
 ### Architecture Diagram
 
-![Architecture Diagram](architecture.drawio.svg)
+![Architecture Diagram](architecturen.png)
 
 ## Features
 
